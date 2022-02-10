@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="200" height="200" viewBox="0 0 200 200" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 100 100)" id="d8593f8d-8c92-4157-a6f1-f1c0562cd111"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-100" y="-100" rx="0" ry="0" width="200" height="200" />
+</g>
+<g transform="matrix(0 0 0 0 0 0)" id="7cba5ccd-9d83-4db1-aa2f-cffa6d4b4935"  >
+</g>
+<g transform="matrix(2.17 0 0 5.6 100.5 100.5)"  >
+<path style="stroke: rgb(34,40,49); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,181); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -50)" d="M 94.75 50 C 94.75 56.213 89.514 61.25 83.054 61.25 L 16.946 61.25 C 10.486 61.25 5.25 56.213 5.25 50 L 5.25 50 C 5.25 43.787 10.486 38.75 16.945999999999998 38.75 L 83.053 38.75 C 89.514 38.75 94.75 43.787 94.75 50 L 94.75 50 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 100 100)" style="" id="2ddb2735-94c3-45e2-9e5f-e74811a1e7a6"  >
+		<rect opacity="0" fill="rgb(255,255,255)" x="-218.82" y="-59.32" width="437.64" height="118.65"></rect>
+		<text xml:space="preserve" font-family="Concert One" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(34,40,49); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-89.38" y="32.98" >S</tspan><tspan x="-30.04" y="32.98" >P</tspan><tspan x="32.78" y="32.98" >B</tspan></text>
+</g>
+</svg>

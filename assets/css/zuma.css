@@ -1,0 +1,179 @@
+body {
+	background-color: #393e46;
+	color: #eeeeee;
+}
+
+.simpinbuk {
+	color: #00adb5;
+}
+
+.navbar {
+	background-color: #00adb5;
+}
+
+.nlink {
+	color: rgb(255, 255, 255) !important;
+}
+
+.active {
+	text-decoration: underline 3px;
+	color: #fff;
+}
+
+.active:hover {
+	color: #07e6f1 !important;
+}
+
+.btn-primary {
+	background-color: #00adb5;
+}
+
+.form-signin {
+	width: 100%;
+	height: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: auto;
+}
+
+.form-signin .checkbox {
+	font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+	z-index: 2;
+}
+
+.form-signin input[type="email"] {
+	margin-bottom: -1px;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+	margin-bottom: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+#navHiddenButton {
+	visibility: hidden;
+}
+
+.bi {
+	vertical-align: -0.125em;
+	fill: currentColor;
+}
+
+.feature-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 4rem;
+	height: 4rem;
+	margin-bottom: 1rem;
+	font-size: 2rem;
+	color: #fff;
+	border-radius: 0.75rem;
+}
+
+.icon-link {
+	display: inline-flex;
+	align-items: center;
+}
+.icon-link > .bi {
+	margin-top: 0.125rem;
+	margin-left: 0.125rem;
+	transition: transform 0.25s ease-in-out;
+	fill: currentColor;
+}
+.icon-link:hover > .bi {
+	transform: translate(0.25rem);
+}
+
+.icon-square {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 3rem;
+	height: 3rem;
+	font-size: 1.5rem;
+	border-radius: 0.75rem;
+}
+
+.rounded-4 {
+	border-radius: 0.5rem;
+}
+.rounded-5 {
+	border-radius: 1rem;
+}
+
+.text-shadow-1 {
+	text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-2 {
+	text-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-3 {
+	text-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+}
+
+.card-cover {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.card-title {
+	color: #00adb5;
+	font-weight: 700;
+}
+
+.card-text {
+	color: #000;
+}
+
+.rodok-ireng {
+	color: rgb(80, 80, 80) !important;
+}
+
+.ireng {
+	color: #000;
+}
+
+.unlisted {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.available {
+	color: lightgreen;
+}
+
+.not-available {
+	color: red;
+}
+
+.pinjam {
+	background-color: #00adb5;
+}
+
+.cant-pinjam {
+	background-color: #12757a;
+}
+
+.cover-buku {
+	background-size: cover;
+	background-position: center;
+}
+
+.iki-link {
+	text-align: center;
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.iki-link:hover {
+	color: #00adb5;
+}
